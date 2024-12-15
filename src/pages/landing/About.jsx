@@ -42,7 +42,7 @@ function About({ landingOffset, aboutRef, contactRef }) {
       <div className="h-fit mt-auto w-full lg:w-[30vw] ml-auto mb-[30px] flex flex-col gap-12">
         <Heading2 className="text-[#F5F5F5] indent-[100px]">
           {
-            "I AM A SOFTWARE ENGINEER BASED IN INDIA. I HAVE 2 YEARS OF EXPERIENCE IN BUILDING FULL STACK & AI APPLICATIONS FROM SCRATCH AT STARTUPS. I LOVE NATURE, PIZZA & CODING."
+            "I am an aspiring Web Developer with a keen interest in front-end development, currently proficient in HTML, CSS and Javascript. I am excited about the opportunity to contribute to a team and work on real-world projects. My goal is to grow as a developer and create engaging and accessible web experiences."
           }
         </Heading2>
         <div className="w-fit ml-auto">

@@ -14,14 +14,14 @@ const experiences = [
     tenure: "FEB'23 - MAR'23 ",
     role: "Java Developer Intern",
     about:
-      "Revolutionizing the product management industry with cutting-edge AI solutions. Developed an advanced system that blends AI and real-time interactions, making complex tasks smoother and more efficient.",
+      "Developed Javabased Console ATM simulation with user authentication.Implemented functions transaction history, withdraw, deposit, transfer.Gained Valuable experience in Java Programming and OOP principles.",
   },
   {
     name: "TECHNOHACKS",
     tenure: "OCT'23 - NOV'23",
     role: "C++ DEVELOPER INTERN",
     about: 
-      "Boosted user engagement by developing and enhancing features for a mobile app. Streamlined deployment processes, making releases faster and more reliable.",
+      "Engineered a Number Guessing Game in C++ with an intuitive user interface, providing real-time feedback to guide users in guessing numbers between 1 and 100.Developed a robust Temperature Converter application, enabling seamless conversion between Fahrenheit and Celsius, ensuring accurate calculations.Designed and implemented a secure Random Password Generator, offering customizable password lengths and complexity, adhering to industry-standard security practices.",
   },
 ];
 
