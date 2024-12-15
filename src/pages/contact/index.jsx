@@ -4,7 +4,7 @@ import RandomCharacter from "../../components/RandomCharacter";
 import Heading2 from "../../components/Heading2";
 import Button from "../../components/Button";
 
-const interests = ["AI / LLM", "FULL STACK DEVELOPMENT", "SYSTEM DESIGN", "NEW IDEAS", "STARTUPS", "FRONTEND DEVELOPMENT", "BACKEND DEVELOPMENT", "PIZZA"];
+const interests = ["FULL STACK DEVELOPMENT", "NEW IDEAS" , "FRONTEND DEVELOPMENT", "BACKEND DEVELOPMENT", "PIZZA"];
 
 function Contact() {
   const containerRef = useRef(0);
@@ -63,7 +63,7 @@ function Contact() {
       </div>
       <div className="mt-[20vh] h-fit flex wrap gap-3 items-center mb-[2vh]">
         <Heading2>{"HAVE A PROJECT IN MIND?"}</Heading2>
-        <a href="mailto:nothefakedevesh@gmail.com">
+        <a href="mailto:mrpratikonline@gamil.com">
           <Button text="CONTACT ME" />
         </a>
       </div>
