@@ -4,7 +4,7 @@ import RandomCharacter from "../../components/RandomCharacter";
 import Heading2 from "../../components/Heading2";
 import Button from "../../components/Button";
 
-const interests = ["FULL STACK DEVELOPMENT", "NEW IDEAS" , "FRONTEND DEVELOPMENT", "BACKEND DEVELOPMENT", "PIZZA"];
+const interests = ["PYTHON", "NEW IDEAS" , "DJANGO" , "BACKEND DEVELOPMENT", "DRF"];
 
 function Contact() {
   const containerRef = useRef(0);
