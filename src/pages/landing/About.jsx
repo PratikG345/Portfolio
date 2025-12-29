@@ -42,7 +42,7 @@ function About({ landingOffset, aboutRef, contactRef }) {
       <div className="h-fit mt-auto w-full lg:w-[30vw] ml-auto mb-[30px] flex flex-col gap-12">
         <Heading2 className="text-[#F5F5F5] indent-[100px]">
           {
-            "I am an aspiring Web Developer with a keen interest in front-end development, currently proficient in HTML, CSS and Javascript. I am excited about the opportunity to contribute to a team and work on real-world projects. My goal is to grow as a developer and create engaging and accessible web experiences."
+            "Backend-focused Python & Django Developer with hands-on experience building RESTful APIs and database-driven web applications. Strong understanding of Django fundamentals, Django REST Framework, and relational data modeling."
           }
         </Heading2>
         <div className="w-fit ml-auto">
