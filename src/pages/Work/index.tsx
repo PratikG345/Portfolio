@@ -10,6 +10,16 @@ gsap.registerPlugin(ScrollTrigger);
 
 const experiences = [
   {
+    name: "A2Z IT HUB",
+    tenure: "MAY'25 - NOV'25 ",
+    role: "WEB Developer Intern",
+    about:
+      "• Worked on Django-based applications involving database-backed features and admin interfaces.
+       • Assisted in developing internal tools and dashboards using Django and Bootstrap.
+       • Participated in debugging, testing, and version control using Git.
+       • Gained exposure to real client requirements and production-like development environments.",
+  },
+  {
     name: "OASIS INFOBYTE",
     tenure: "FEB'23 - MAR'23 ",
     role: "Java Developer Intern",
